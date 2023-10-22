@@ -8,9 +8,20 @@ Assetname/Creator/... (+Website): last visit YYYY-MM-DD HH:MM
 - used Sounds, Icons, Background Images
 
 ## Assets
--
--
--
+- Pixel UI Pack from Kenney (https://kenney.nl/assets/pixel-ui-pack): 2023-10-21 15:00
+UI Icons
+- Game Icons from Kenney (https://kenney.nl/assets/game-icons): 2023-10-21 15:00
+UI and Game Icons
+- UI Pack from Kenney (https://kenney.nl/assets/ui-pack): 2023-10-21 15:00
+UI Icons and Font
+- Impact Sounds from Kenney (https://kenney.nl/assets/impact-sounds): 2023-10-21 15:00
+Sounds
+- Toom Click from Mobeyee Sounds (https://opengameart.org/content/toom-click): 2023-10-21 18:00
+Sound
+- Error from EZduzziteh (https://opengameart.org/content/error): 2023-10-21 18:00
+Sound
+Kenney Fonts from Kenney (https://kenney.nl/assets/kenney-fonts): 2023-10-21 20:00
+Fonts
 
 
 Please note that these assets, sounds, and sprites come from different sources and are subject to various licensing terms. Be sure to respect the specific license terms and copyright information when using them in your project.
